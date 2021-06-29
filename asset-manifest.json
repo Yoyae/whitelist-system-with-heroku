@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/whitelist-system-with-heroku/static/css/main.90fd764b.chunk.css",
-    "main.js": "/whitelist-system-with-heroku/static/js/main.63f09ed7.chunk.js",
-    "main.js.map": "/whitelist-system-with-heroku/static/js/main.63f09ed7.chunk.js.map",
-    "runtime-main.js": "/whitelist-system-with-heroku/static/js/runtime-main.0c3d8abb.js",
-    "runtime-main.js.map": "/whitelist-system-with-heroku/static/js/runtime-main.0c3d8abb.js.map",
-    "static/css/2.1899e22e.chunk.css": "/whitelist-system-with-heroku/static/css/2.1899e22e.chunk.css",
-    "static/js/2.22e92f08.chunk.js": "/whitelist-system-with-heroku/static/js/2.22e92f08.chunk.js",
-    "static/js/2.22e92f08.chunk.js.map": "/whitelist-system-with-heroku/static/js/2.22e92f08.chunk.js.map",
+    "main.css": "/whitelist-system-with-heroku/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/whitelist-system-with-heroku/static/js/main.bdbdb7d3.chunk.js",
+    "main.js.map": "/whitelist-system-with-heroku/static/js/main.bdbdb7d3.chunk.js.map",
+    "runtime-main.js": "/whitelist-system-with-heroku/static/js/runtime-main.ee23909a.js",
+    "runtime-main.js.map": "/whitelist-system-with-heroku/static/js/runtime-main.ee23909a.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/whitelist-system-with-heroku/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.7397d49c.chunk.js": "/whitelist-system-with-heroku/static/js/2.7397d49c.chunk.js",
+    "static/js/2.7397d49c.chunk.js.map": "/whitelist-system-with-heroku/static/js/2.7397d49c.chunk.js.map",
     "index.html": "/whitelist-system-with-heroku/index.html",
-    "precache-manifest.5cb7f52db19d2dc2e36367103e1b14fc.js": "/whitelist-system-with-heroku/precache-manifest.5cb7f52db19d2dc2e36367103e1b14fc.js",
+    "precache-manifest.08529388efb5eb835712f6df9199c9d3.js": "/whitelist-system-with-heroku/precache-manifest.08529388efb5eb835712f6df9199c9d3.js",
     "service-worker.js": "/whitelist-system-with-heroku/service-worker.js",
-    "static/css/2.1899e22e.chunk.css.map": "/whitelist-system-with-heroku/static/css/2.1899e22e.chunk.css.map",
-    "static/css/main.90fd764b.chunk.css.map": "/whitelist-system-with-heroku/static/css/main.90fd764b.chunk.css.map"
+    "static/css/2.9ff99f11.chunk.css.map": "/whitelist-system-with-heroku/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/whitelist-system-with-heroku/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c3d8abb.js",
-    "static/css/2.1899e22e.chunk.css",
-    "static/js/2.22e92f08.chunk.js",
-    "static/css/main.90fd764b.chunk.css",
-    "static/js/main.63f09ed7.chunk.js"
+    "static/js/runtime-main.ee23909a.js",
+    "static/css/2.9ff99f11.chunk.css",
+    "static/js/2.7397d49c.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.bdbdb7d3.chunk.js"
   ]
 }
