@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/whitelist-system-with-heroku/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/whitelist-system-with-heroku/static/js/main.bdbdb7d3.chunk.js",
-    "main.js.map": "/whitelist-system-with-heroku/static/js/main.bdbdb7d3.chunk.js.map",
-    "runtime-main.js": "/whitelist-system-with-heroku/static/js/runtime-main.ee23909a.js",
-    "runtime-main.js.map": "/whitelist-system-with-heroku/static/js/runtime-main.ee23909a.js.map",
-    "static/css/2.9ff99f11.chunk.css": "/whitelist-system-with-heroku/static/css/2.9ff99f11.chunk.css",
-    "static/js/2.7397d49c.chunk.js": "/whitelist-system-with-heroku/static/js/2.7397d49c.chunk.js",
-    "static/js/2.7397d49c.chunk.js.map": "/whitelist-system-with-heroku/static/js/2.7397d49c.chunk.js.map",
-    "index.html": "/whitelist-system-with-heroku/index.html",
-    "precache-manifest.08529388efb5eb835712f6df9199c9d3.js": "/whitelist-system-with-heroku/precache-manifest.08529388efb5eb835712f6df9199c9d3.js",
-    "service-worker.js": "/whitelist-system-with-heroku/service-worker.js",
-    "static/css/2.9ff99f11.chunk.css.map": "/whitelist-system-with-heroku/static/css/2.9ff99f11.chunk.css.map",
-    "static/css/main.5e4e9510.chunk.css.map": "/whitelist-system-with-heroku/static/css/main.5e4e9510.chunk.css.map"
+    "main.css": "/whitelist-system-with-gh-pages/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/whitelist-system-with-gh-pages/static/js/main.baf8e6c3.chunk.js",
+    "main.js.map": "/whitelist-system-with-gh-pages/static/js/main.baf8e6c3.chunk.js.map",
+    "runtime-main.js": "/whitelist-system-with-gh-pages/static/js/runtime-main.24ae1fe2.js",
+    "runtime-main.js.map": "/whitelist-system-with-gh-pages/static/js/runtime-main.24ae1fe2.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/whitelist-system-with-gh-pages/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.a44a3c6f.chunk.js": "/whitelist-system-with-gh-pages/static/js/2.a44a3c6f.chunk.js",
+    "static/js/2.a44a3c6f.chunk.js.map": "/whitelist-system-with-gh-pages/static/js/2.a44a3c6f.chunk.js.map",
+    "index.html": "/whitelist-system-with-gh-pages/index.html",
+    "precache-manifest.3fd970bd4041ef4b4e1bbb86b46267c7.js": "/whitelist-system-with-gh-pages/precache-manifest.3fd970bd4041ef4b4e1bbb86b46267c7.js",
+    "service-worker.js": "/whitelist-system-with-gh-pages/service-worker.js",
+    "static/css/2.9ff99f11.chunk.css.map": "/whitelist-system-with-gh-pages/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/whitelist-system-with-gh-pages/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee23909a.js",
+    "static/js/runtime-main.24ae1fe2.js",
     "static/css/2.9ff99f11.chunk.css",
-    "static/js/2.7397d49c.chunk.js",
+    "static/js/2.a44a3c6f.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.bdbdb7d3.chunk.js"
+    "static/js/main.baf8e6c3.chunk.js"
   ]
 }
